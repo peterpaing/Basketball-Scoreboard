@@ -119,9 +119,7 @@ Through this project I practiced:
 ---
 
 # 🔗 Live Demo
-
-
-
+https://lets-count-basketball-score.netlify.app/
 ---
 
 # 👨‍💻 Author
