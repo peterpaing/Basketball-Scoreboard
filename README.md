@@ -103,20 +103,6 @@ Basketball Scoreboard Pro interface with:
 ![Desktop Preview](image-1.png)
 ---
 
-# 🧠 What I Learned
-
-Through this project I practiced:
-
-* DOM manipulation
-* Event listeners
-* Objects in JavaScript
-* `setInterval()` and timers
-* Dynamic UI updates
-* Responsive CSS
-* Accessibility basics
-* State management
-
----
 
 # 🔗 Live Demo
 https://lets-count-basketball-score.netlify.app/
